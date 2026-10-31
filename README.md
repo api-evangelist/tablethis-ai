@@ -64,5 +64,109 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-tablethis-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://tablethis.ai/
+TableThis provides a shared database platform for AI‑built internal applications, offering typed tables and Markdown documentation that teams can collaborate on. It enables developers to connect large language models like Claude or Codex to a central data store, allowing AI assistants to read, write, and update information with version history and access controls. The service is free to start with 100 MB of storage and no credit card required, targeting teams that want to build internal tools powered by AI without managing infrastructure.
+
+**Areas:** AI · Database · Collaboration · Internal Apps · Low-code
+
+## tablethis-ai on APIs.io
+
+Everything profiled for tablethis-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/tablethis-ai/](https://apis.io/providers/tablethis-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [TableThis API](https://apis.io/apis/tablethis-ai/tablethis-api/) — TableThis provides an MCP‑based API for AI agents to read, write, and manage tables and documents. The API is accessed via the MCP endpoint and documented…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Tablethis Ai Authentication](https://apis.io/security/tablethis-ai/tablethis-ai-authentication/)
+- [Tablethis Ai Domain Security](https://apis.io/security/tablethis-ai/tablethis-ai-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Tablethis Ai Scopes](https://apis.io/scopes/tablethis-ai/tablethis-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Tablethis Ai Plans Pricing](https://apis.io/plans/tablethis-ai/tablethis-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Tablethis Ai Rate Limits](https://apis.io/rate-limits/tablethis-ai/tablethis-ai-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tablethis.ai/)
+- [Documentation](https://www.tablethis.ai/docs)
+- [API reference](https://www.tablethis.ai/docs)
+- [Blog](https://www.tablethis.ai/blog)
+- [Terms of service](https://www.tablethis.ai/terms)
+- [Privacy policy](https://www.tablethis.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 19.0** — emerging · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 34.2 |
+
+**Agent readiness 24.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 27.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/tablethis-ai/](https://apis.io/providers/tablethis-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for tablethis-ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/tablethis-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
